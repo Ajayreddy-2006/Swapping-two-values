@@ -18,11 +18,22 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Programe to swap tuo values
+#Developed by : T.Ajay
+#Registrationnumber : 23007325
 
+a=eval(input())
+b=eval(input())
+temp=a
+a=b
+b=temp
+print("swapped numbers are",a,b)
+```
 
+## OUTPUT:
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
 
 
